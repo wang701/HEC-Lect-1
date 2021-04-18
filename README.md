@@ -1,3 +1,3 @@
 # HEC-Lect-1
 Click here to run in mybinder .... 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jvkrogmeier/HEC-Lect-1/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wang701/HEC-Lect-1/HEAD)
